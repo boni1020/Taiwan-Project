@@ -5,7 +5,7 @@
 
 使用HTML5、CSS3製作RWD網站，著重於練習Flex彈性排版。
 
-DEMO：
+DEMO：https://boni1020.github.io/Taiwan-Project/
 
 ![](https://i.imgur.com/IGJLW7W.jpg)
 
